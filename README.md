@@ -4,6 +4,6 @@
 
 ## This is published in SouthKorea
 <img src = "https://user-images.githubusercontent.com/76798832/130610385-10e0c3fb-987a-4b18-a7c9-4eb1f93e38df.png" weight="300" height="450"/> <br/>
-- I will introduce about this book, But My Project maybe modified. Because gradle version and AWs version will update someday. So, if your project don't apply, you should find yourself. Probably, you would find in 'google search' and 'gradle homepage' etc...
+  I will introduce about this book, But My Project maybe modified. Because gradle version and AWs version will update someday. So, if your project don't apply, you should find yourself. Probably, you would find in 'google search' and 'gradle homepage' etc...
 
 
