@@ -8,8 +8,11 @@
 * I will introduce about this book, But My Project maybe modified. Because gradle version and AWs version will update someday. So, if your project don't apply, you should find yourself. Probably, you would find in 'google search' and 'gradle homepage' etc...
 
 
-## 1. 인텔리제이로 스프링 부트 시작하기
+## 주의할점
+- 1. Gradle 버젼과 java 버젼을 잘 맞춰줘야 합니다. 저는 2021년 8월 기준으로 했습니다.
+- 2. 8장 배포는 하지 않았습니다. 이 점 참고해주세요!!
+
 #### (Using Intellij, Start Spring boot)
 
-- This is very simple step. Follow my explanation slowly!
+-
 
