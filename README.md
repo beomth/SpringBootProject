@@ -1,4 +1,4 @@
-# 스프링 부트와 AWS로 혼자 구현하는 웹 서비스<img src ="https://img.shields.io/badge/Java-yellow.svg?&style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-green.svg?&style=flat&logo=spring&logoColor=yellow.svg?&style=flat&logo=java&logoColor=6DB33F"/>
+# 스프링 부트와 AWS로 혼자 구현하는 웹 서비스<img src ="https://img.shields.io/badge/Java-yellow.svg?&style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-green.svg?&style=flat&logoColor=6DB33F"/>
 - 20201.08.06 update
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomth&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
